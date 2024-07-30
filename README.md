@@ -69,7 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to the [Facebook Research](https://github.com/facebookresearch) team for their work on SAM 2.
 
-
-
-This `README.md` includes essential information about the project, installation instructions, usage, and hyperlinks to resources, enhancing its readability and accessibility. &#8203;:citation[oaicite:0]{index=0}&#8203;
-
